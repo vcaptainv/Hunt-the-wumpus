@@ -1,2 +1,5 @@
 # Hunt-the-wumpus
 In this project, we are using the graph data structure to make a new game called "Hunt the Wumpus." In this game, you are playing as a hunter with one bow and one arrow who is exploring a cave and hunting the Wumpus. You initially don't know the lay-out of the rooms inside the cave but as you carefully move from room to room in the cave, you will find clues that tell you how far you are from the Wumpus: if the Wumpus are two or fewer rooms away, you will smell it. If you mistakenly enter the room with the Wumpus, you will become the dinner of the wumpus. But you can use the only arrow in your hand to kill the wumpus. The arrow can only be shooted from one room to the adjacent room. If you kill the wumpus with the arrow, you will win this game and become the hero of your village. But if you shoot incorrectly, the wumpus will be alarmed by the sound of the arrow bouncing and will come to eat you.
+
+More discription could be found on my wiki page: https://wiki.colby.edu/display/~yhu/Yusheng%27s+CS+231+Project+9
+Thanks for reading.
